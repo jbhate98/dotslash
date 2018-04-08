@@ -28,7 +28,7 @@ public class MainActivity extends Activity implements OnMapReadyCallback {
     Button btnSendSMS;
     IntentFilter intentFilter;
     private GoogleMap mMap;
-    private static final int MY_PERMISSIONS_REQUEST_SEND_SMS =0 ;
+    private static final int MY_PERMISSIONS_REQUEST_SEND_SMS =0 ;//asad
     private static final String phoneNo="+918668259587";
     private static final String message="es";
     private ProgressBar spinner;
